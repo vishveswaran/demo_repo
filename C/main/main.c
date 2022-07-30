@@ -1,6 +1,7 @@
 #include<stdio.h>
+
 int main(){
-int a = 10;
-int *p = &a;
-printf("%d\n", *p);
+
+    printf("hello world\n");
+    return 0;
 }
